@@ -1,21 +1,86 @@
-# 💫 About Me:
-### 👋 Hi there, I'm Irmansyah Muslimin<br><br>🚀 **Backend Developer | Laravel | Problem Solver**  <br><br>- 💻 Sedang fokus di **Laravel** untuk membangun aplikasi web yang scalable & maintainable  <br>- 🎨 Sering eksplorasi **Tailwind CSS** & UI/UX sederhana biar aplikasi enak dipakai  <br>- 🔒 Tertarik dengan **autentikasi, role-based access, dan keamanan aplikasi**  <br>- ☁️ Pengalaman dengan **deployment** (GitHub Actions, VPS, shared hosting, Hostinger)  <br>- 📊 Pernah membangun **sistem pengaduan, tracking laporan, admin panel, dan manajemen tim**  <br>- ⚡ Belajar juga tentang **Progressive Web Apps (PWA)** & automasi workflow  <br><br>🌱 Saat ini lagi mendalami:  <br>`CI/CD` • `Digital Signature Integration` • `Java Proggramming Language`<br><br>📫 Bisa connect lewat:  <br>[LinkedIn](irmansyahm) • [Email](mailto:irmansyahmuslimincorp@gmail.com)<br>---<br>
+# 💫 About Me
 
+### 👋 Hi there, I'm **Irmansyah Muslimin**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lr.mann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irmansyahm) 
+🚀 **Web Developer | System Builder | Tech Enthusiast**
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kiraascoder&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kiraascoder&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiraascoder&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Saya adalah developer yang fleksibel dalam membangun aplikasi web end-to-end — mulai dari perancangan sistem, backend logic, hingga tampilan antarmuka yang nyaman digunakan.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+Fokus utama saya adalah membuat aplikasi yang **functional, secure, scalable, dan user-friendly**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kiraascoder&icon=6&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 What I Do
+
+* 💻 Mengembangkan **Web Application** dari nol hingga production
+* 🏗️ Membangun berbagai sistem seperti:
+
+  * Sistem Pengaduan Masyarakat
+  * Tracking & Monitoring Laporan
+  * Sistem Pengajuan & Arsip Surat
+  * Admin Panel & Dashboard
+  * Role & Permission Management
+  * Manajemen Tim & Workflow System
+* 🔒 Implementasi:
+
+  * Authentication System
+  * Role-Based Access Control (RBAC)
+  * API Integration & Security
+* ⚙️ Terbiasa handle:
+
+  * Database Design
+  * REST API Development
+  * System Architecture
+
+---
+
+### 🌱 Currently Exploring
+
+Saat ini saya juga aktif eksplorasi hal-hal di luar core system development untuk memperluas skillset:
+
+* 🎨 **Frontend Tools & Modern UI Frameworks**
+  Eksplorasi tooling dan ecosystem frontend untuk improve user experience & interface flexibility
+
+* 🧊 **3D Modeling & Environment Design**
+  Belajar membuat asset, ruangan, dan environment sederhana untuk kebutuhan simulasi, VR, dan interactive project
+
+* 🖥️ **Server Experiment & Self-Hosting**
+  Main-main server seperti STB, mini server, dan environment lokal untuk testing deployment, networking, dan service hosting
+
+* 🤖 **Automation & Workflow Scripting**
+  Membuat automation sederhana, bot workflow, dan efisiensi task berbasis script maupun service integration
+
+---
+
+### 🎨 UI / Frontend Experience
+
+Saya juga terbiasa mengerjakan sisi frontend untuk kebutuhan sistem:
+
+* Tailwind CSS
+* Responsive Layout
+* Admin Dashboard UI
+* Clean & Simple UX
+
+Karena menurut saya, sistem yang bagus bukan cuma powerful — tapi juga **nyaman dipakai**.
+
+---
+
+### ☁️ Deployment & Tools
+
+* VPS & Shared Hosting
+* GitHub Actions (CI/CD)
+* Hostinger Deployment
+* Domain & Server Configuration
+
+---
+
+### 📫 Connect With Me
+
+* 🌐 GitHub → [https://github.com/kiraascoder](https://github.com/kiraascoder)
+* LinkedIn → [https://linkedin.com/in/irmansyahm](https://linkedin.com/in/irmansyahm)
+* Instagram → [https://instagram.com/lr.mann](https://instagram.com/lr.mann)
+* Email → [irmansyahmuslimincorp@gmail.com](mailto:irmansyahmuslimincorp@gmail.com)
+
+---
+
+<!-- Tech Stack, Stats, dll tetap bisa pakai punyamu sebelumnya -->

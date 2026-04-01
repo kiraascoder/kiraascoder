@@ -1,86 +1,103 @@
-# 💫 About Me
+# 👋 Hi there, I'm Irmansyah Muslimin
 
-### 👋 Hi there, I'm **Irmansyah Muslimin**
+🚀 **System Engineer Enthusiast | Web Developer | Self-Hosted Infrastructure Builder**
 
-🚀 **Web Developer | System Builder | Tech Enthusiast**
+Saya adalah seorang **Informatics Engineering student** yang berfokus pada **System Engineering**, **server management**, dan **deployment aplikasi**. Saya berpengalaman dalam membangun dan menjalankan aplikasi berbasis web sekaligus mengelola environment server tempat aplikasi tersebut berjalan.
 
-Saya adalah developer yang fleksibel dalam membangun aplikasi web end-to-end — mulai dari perancangan sistem, backend logic, hingga tampilan antarmuka yang nyaman digunakan.
-
-Fokus utama saya adalah membuat aplikasi yang **functional, secure, scalable, dan user-friendly**.
+Saya percaya bahwa sistem yang baik bukan hanya soal fitur, tapi juga harus **stabil**, **scalable**, dan **reliable** di sisi infrastruktur.
 
 ---
 
-### 🧠 What I Do
+## 💫 About Me
 
-* 💻 Mengembangkan **Web Application** dari nol hingga production
-* 🏗️ Membangun berbagai sistem seperti:
-
-  * Sistem Pengaduan Masyarakat
-  * Tracking & Monitoring Laporan
-  * Sistem Pengajuan & Arsip Surat
-  * Admin Panel & Dashboard
-  * Role & Permission Management
-  * Manajemen Tim & Workflow System
-* 🔒 Implementasi:
-
-  * Authentication System
-  * Role-Based Access Control (RBAC)
-  * API Integration & Security
-* ⚙️ Terbiasa handle:
-
-  * Database Design
-  * REST API Development
-  * System Architecture
+Saya suka membangun sistem yang bisa berjalan end-to-end, mulai dari aplikasi, server, jaringan, sampai storage. Fokus utama saya ada di dunia **Linux server**, **self-hosted infrastructure**, **deployment**, dan **system architecture**.
 
 ---
 
-### 🌱 Currently Exploring
+## ⚙️ What I Do
 
-Saat ini saya juga aktif eksplorasi hal-hal di luar core system development untuk memperluas skillset:
+### 🖥️ Server & System Setup
+- Setup dan konfigurasi Linux server (local & VPS)
+- Mengelola self-hosted services seperti Nextcloud, web apps, dan lainnya
+- Konfigurasi jaringan seperti static IP dan DHCP reservation
 
-* 🎨 **Frontend Tools & Modern UI Frameworks**
-  Eksplorasi tooling dan ecosystem frontend untuk improve user experience & interface flexibility
+### 🐳 Containerization & Deployment
+- Deploy aplikasi menggunakan Docker
+- Mengelola environment multi-service
+- Setup volume dan pemisahan storage (SSD & HDD)
 
-* 🧊 **3D Modeling & Environment Design**
-  Belajar membuat asset, ruangan, dan environment sederhana untuk kebutuhan simulasi, VR, dan interactive project
+### 🌐 Web & App Deployment
+- Deploy aplikasi Laravel dan web services
+- Konfigurasi Nginx sebagai reverse proxy
+- Setup domain dan tunneling menggunakan Cloudflare Tunnel
 
-* 🖥️ **Server Experiment & Self-Hosting**
-  Main-main server seperti STB, mini server, dan environment lokal untuk testing deployment, networking, dan service hosting
-
-* 🤖 **Automation & Workflow Scripting**
-  Membuat automation sederhana, bot workflow, dan efisiensi task berbasis script maupun service integration
-
----
-
-### 🎨 UI / Frontend Experience
-
-Saya juga terbiasa mengerjakan sisi frontend untuk kebutuhan sistem:
-
-* Tailwind CSS
-* Responsive Layout
-* Admin Dashboard UI
-* Clean & Simple UX
-
-Karena menurut saya, sistem yang bagus bukan cuma powerful — tapi juga **nyaman dipakai**.
+### 💾 Storage & System Architecture
+- Setup NAS dan storage system
+- Eksplorasi RAID dan multi-disk management
+- Integrasi storage untuk aplikasi seperti Nextcloud
 
 ---
 
-### ☁️ Deployment & Tools
+## 🧠 System Projects Experience
 
-* VPS & Shared Hosting
-* GitHub Actions (CI/CD)
-* Hostinger Deployment
-* Domain & Server Configuration
+Beberapa hal yang sudah saya kerjakan secara langsung:
 
----
-
-### 📫 Connect With Me
-
-* 🌐 GitHub → [https://github.com/kiraascoder](https://github.com/kiraascoder)
-* LinkedIn → [https://linkedin.com/in/irmansyahm](https://linkedin.com/in/irmansyahm)
-* Instagram → [https://instagram.com/lr.mann](https://instagram.com/lr.mann)
-* Email → [irmansyahmuslimincorp@gmail.com](mailto:irmansyahmuslimincorp@gmail.com)
+- 🔹 Self-hosted Nextcloud dengan Docker
+- 🔹 Setup server menggunakan CasaOS & Linux environment
+- 🔹 Konfigurasi Cloudflare Tunnel untuk remote access
+- 🔹 Deployment aplikasi Laravel dengan multi-service setup
+- 🔹 Pengelolaan storage terpisah (system vs data)
+- 🔹 Eksperimen server menggunakan mini PC & perangkat low-power
 
 ---
 
-<!-- Tech Stack, Stats, dll tetap bisa pakai punyamu sebelumnya -->
+## 🌱 Currently Exploring
+
+- ⚡ Advanced Linux & Server Optimization
+- 🔐 Security Hardening & Access Management
+- ☁️ Cloud & DevOps Practices
+- 📦 Container Orchestration (next step: Kubernetes)
+- 🤖 Automation & Workflow Integration
+
+---
+
+## 🎨 Web Development Background
+
+Walaupun fokus saya ada di system engineering, saya juga punya pengalaman kuat di web development:
+
+- Backend development dengan Laravel
+- REST API development
+- Database design & management
+- Authentication & RBAC
+- Admin dashboard & monitoring system
+- Tailwind CSS untuk UI yang sederhana dan responsif
+
+Pengalaman ini membantu saya memahami sistem secara **end-to-end**:
+
+**app ↔ server ↔ user**
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **OS & Server:** Linux, Ubuntu, Armbian
+- **Container:** Docker
+- **Server Tools:** CasaOS, Nginx
+- **Networking:** Cloudflare Tunnel, Local Network Configuration
+- **Development:** Laravel, REST API
+- **Deployment:** VPS, GitHub Actions
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 GitHub: [@kiraascoder](https://github.com/kiraascoder)
+- 💼 LinkedIn: [irmansyahm](https://linkedin.com/in/irmansyahm)
+- 📷 Instagram: [@lr.mann](https://instagram.com/lr.mann)
+- ✉️ Email: [irmansyahmuslimincorp@gmail.com](mailto:irmansyahmuslimincorp@gmail.com)
+
+---
+
+## 💡 Personal Motto
+
+> **"Building systems that don’t just run — but run reliably."**
